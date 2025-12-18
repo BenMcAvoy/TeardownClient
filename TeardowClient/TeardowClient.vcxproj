@@ -22,10 +22,12 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\sdk\player.h" />
     <ClInclude Include="src\memcury.h" />
     <ClInclude Include="src\sdk\common.h" />
     <ClInclude Include="src\sdk\context.h" />
+    <ClInclude Include="src\sdk\lua.h" />
+    <ClInclude Include="src\sdk\player.h" />
+    <ClInclude Include="src\sdk\render.h" />
     <ClInclude Include="src\sdk\renderer.h" />
     <ClInclude Include="src\sdk\scene.h" />
     <ClInclude Include="src\sdk\script.h" />
