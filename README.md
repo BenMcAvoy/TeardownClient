@@ -9,3 +9,7 @@ Open `TeardowClient.sln` in Visual Studio and build the x64 configuration. The s
 ## Status
 
 This is an internal, game-version-specific research prototype, not a supported public mod. It depends on private game structures and should only be used in environments where you have permission to modify the game.
+
+## Defensive analysis
+
+See [DEFENSIVE_ANALYSIS.md](DEFENSIVE_ANALYSIS.md) for a discussion of in-process scripting, extension boundaries, and the limits of this experiment.
